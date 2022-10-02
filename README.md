@@ -1,2 +1,2 @@
 # SQL-Comparer-Excel
-Excel big files comparer with SQL
+Compare excel big files with SQL
